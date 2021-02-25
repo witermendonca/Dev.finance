@@ -18,6 +18,10 @@ html{
     font-size: 93.75%; /* 15px */
 }
 
+main{
+    min-height: 70vh;
+}
+
 body{
     background-color: #f0f2f5;   /*cor fundo*/
     font-family: 'Poppins', sans-serif;     /*fonte global*/
